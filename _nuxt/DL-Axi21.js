@@ -1,0 +1,1 @@
+import{f as e}from"./olksPaYr.js";import{y as t}from"./C9jEzNRt.js";function n(n,r){return t(n)?!1:Array.isArray(n)?n.some(t=>e(t,r)):e(n,r)}export{n as t};

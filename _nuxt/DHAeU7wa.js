@@ -1,0 +1,1 @@
+import{r as e}from"./Y0gkCWGb.js";var t=()=>e(`color-mode`).value;export{t};

@@ -1,0 +1,1 @@
+import{lt as e,yr as t}from"./DkD_ukzI.js";import{F as n}from"./GhjfIRs7.js";function r(r){return e(()=>!t(r)||!!n(r)?.closest(`form`))}export{r as t};

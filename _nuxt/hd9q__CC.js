@@ -1,0 +1,1 @@
+import{At as e}from"./DkD_ukzI.js";function t(){let t=e()?.vnode?.scopeId;return t?{[t]:``}:{}}export{t};
